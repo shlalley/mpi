@@ -1,3 +1,5 @@
+#Code taken from book
+
 #include <mpi.h>
 #include <stdio.h>
 
